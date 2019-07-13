@@ -11,6 +11,10 @@ Boilerplate code for writing a vue component to be distributed through npm
 * Build your component for npm using `npm run build`
 * Create examples for you component in `examples`
 
+## TODO
+* Add eslint (consistent with rules for Nuxt.js)
+* Add support for styles in SSR
+
 ## Boilerplate for README below
 
 ------------
