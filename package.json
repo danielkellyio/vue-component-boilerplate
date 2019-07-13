@@ -1,5 +1,6 @@
 {
   "name": "opti-image",
+  "description": "Boilerplate code for writing a vue component to be distributed through npm",
   "homepage": "",
   "keywords": [],
   "version": "0.1.0",
